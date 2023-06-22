@@ -1,4 +1,4 @@
-# Audio-Topic-Segmentation
+# Multimodal Topic Segmentation
 Repository for the paper [Multimodal Topic Segmentation of Podcast Shows with Pre-trained Neural Encoders](https://dl.acm.org/doi/10.1145/3591106.3592270)
 
 # Installation
