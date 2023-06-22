@@ -1,5 +1,5 @@
 # Audio-Topic-Segmentation
-Repository for the paper "Exploring pre-trained Audio Neural Representations for Audio Topic Segmentation"
+Repository for the paper [Multimodal Topic Segmentation of Podcast Shows with Pre-trained Neural Encoders](https://dl.acm.org/doi/10.1145/3591106.3592270)
 
 # Installation
 Before using this repository, create a virtual environment such as:
@@ -20,7 +20,7 @@ Note: for faster embeddings extraction with OpenL3, it is suggested to install t
 # Use
 To replicate the results for the individual datasets presented in the original paper, follow below instructions
 
-## NonNews/-SBBC
+## NonNews-SBBC
 Follow the instructions inside the README.md file in the NonNews-BBC folder in this repository.
 
 ## RadioNews-SBBC
