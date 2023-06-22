@@ -1,0 +1,17 @@
+numpy==1.23.3
+scikit-learn==1.1.3
+scipy==1.9.3
+segeval==2.0.11
+speechbrain==0.5.13
+termcolor==1.1.0
+torch==1.13.0
+tqdm==4.60.0
+umap-learn==0.5.1
+xlrd==2.0.1
+XlsxWriter==1.4.2
+pytorch-lightning==1.5.10
+wandb==0.12.10
+librosa==0.8.1
+inaSpeechSegmenter==0.6.8
+openl3==0.4.1
+transformers==4.24.0
